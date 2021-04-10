@@ -1,0 +1,10 @@
+Инструкции:
+
+1. Сайт документации -> Platform -> JVM ->..:
+https://kotlinlang.org/docs/jvm-spring-boot-restful.html
+
+
+2. Туториал со спринговского сайта: +
+link:https://spring.io/guides/tutorials/spring-boot-kotlin/[Building web applications with Spring Boot and Kotlin]
+
+Шаг 1.: Используем Spring Initialzr для генерации пустого проекта

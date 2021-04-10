@@ -1,0 +1,7 @@
+Создаём проекты изучая инструкции отсюда:
+
+https://play.kotlinlang.org/hands-on/overview
+
+Начинаем с "Creating HTTP APIs with Ktor":
+
+Шаг 1. Клонируем репозиторий и далее по инструкции
