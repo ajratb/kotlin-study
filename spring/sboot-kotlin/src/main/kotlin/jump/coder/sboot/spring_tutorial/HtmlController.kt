@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.GetMapping
 @Controller
 class HtmlController {
 
-    @GetMapping("/model")
+    @GetMapping("/blog")
     fun blog(model: Model): String {
         model["title"] = "Blog"
-        return "blog"
+        return "blog_body"
     }
 }

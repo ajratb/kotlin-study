@@ -20,8 +20,8 @@ data class Message(val id: String?, val text: String)
 
 @RestController
 class MessageResource{
-	@GetMapping
-	fun index(): List<Message> = listOf(
+	@GetMapping("/")
+	fun list(): List<Message> = listOf(
 		Message("1", "Hello!"),
 		Message("2", "Bonjour!"),
 		Message("3", "Privet!"),
